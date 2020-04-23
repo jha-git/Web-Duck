@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Web-Duck/static/css/main.edf0c0ad.chunk.css",
+    "main.js": "/Web-Duck/static/js/main.ecddfb14.chunk.js",
+    "main.js.map": "/Web-Duck/static/js/main.ecddfb14.chunk.js.map",
+    "runtime-main.js": "/Web-Duck/static/js/runtime-main.9f9e9d46.js",
+    "runtime-main.js.map": "/Web-Duck/static/js/runtime-main.9f9e9d46.js.map",
+    "static/js/2.db28b84a.chunk.js": "/Web-Duck/static/js/2.db28b84a.chunk.js",
+    "static/js/2.db28b84a.chunk.js.map": "/Web-Duck/static/js/2.db28b84a.chunk.js.map",
+    "index.html": "/Web-Duck/index.html",
+    "precache-manifest.364747fcc8835a50c59023ee70225ffa.js": "/Web-Duck/precache-manifest.364747fcc8835a50c59023ee70225ffa.js",
+    "service-worker.js": "/Web-Duck/service-worker.js",
+    "static/css/main.edf0c0ad.chunk.css.map": "/Web-Duck/static/css/main.edf0c0ad.chunk.css.map",
+    "static/js/2.db28b84a.chunk.js.LICENSE.txt": "/Web-Duck/static/js/2.db28b84a.chunk.js.LICENSE.txt",
+    "static/media/android.svg": "/Web-Duck/static/media/android.0c6bbd9a.svg",
+    "static/media/chat.svg": "/Web-Duck/static/media/chat.7e246b49.svg",
+    "static/media/App.scss": "/Web-Duck/static/media/chevron-right.12852530.svg",
+    "static/media/embed2.svg": "/Web-Duck/static/media/embed2.267ba708.svg",
+    "static/media/ios.svg": "/Web-Duck/static/media/ios.7a6218a0.svg",
+    "static/media/location-pin.svg": "/Web-Duck/static/media/location-pin.a68266a3.svg",
+    "static/media/magnifying-glass.svg": "/Web-Duck/static/media/magnifying-glass.f9737d3e.svg",
+    "static/media/react.svg": "/Web-Duck/static/media/react.010accad.svg",
+    "static/media/site-1.png": "/Web-Duck/static/media/site-1.8bb6b445.png",
+    "static/media/site-2.png": "/Web-Duck/static/media/site-2.bc684d5a.png",
+    "static/media/site-3.png": "/Web-Duck/static/media/site-3.3f979695.png",
+    "static/media/star.svg": "/Web-Duck/static/media/star.7d0871a2.svg",
+    "static/media/user-1.jpg": "/Web-Duck/static/media/user-1.516a08d9.jpg",
+    "static/media/user-2.jpg": "/Web-Duck/static/media/user-2.38e815e8.jpg",
+    "static/media/user-3.jpg": "/Web-Duck/static/media/user-3.b1151fa6.jpg",
+    "static/media/user-5.jpg": "/Web-Duck/static/media/user-5.497f9962.jpg",
+    "static/media/user-6.jpg": "/Web-Duck/static/media/user-6.ba3c3d62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9e9d46.js",
+    "static/js/2.db28b84a.chunk.js",
+    "static/css/main.edf0c0ad.chunk.css",
+    "static/js/main.ecddfb14.chunk.js"
+  ]
+}
